@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/SAW-DecisionSupportSystem.git
+   git clone https://github.com/Korewah/SAW-DecisionSupportSystem.git
    ```
 
 ### Penjelasan:
